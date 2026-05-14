@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/somabrata-sahoo" target="_blank">
+  <a href="[https://linkedin.com/in/somabrata-sahoo](https://www.linkedin.com/in/somabrata-sahoo-4780b7205/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:somabrata2001@gmail.com">
